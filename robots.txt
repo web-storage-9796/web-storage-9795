@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+Disallow: /aviso-legal/
+Disallow: /condiciones-uso/
+Disallow: /politica-cookies/
+Disallow: /politica-privacidad/
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+Sitemap: https://persianas.merafex.es/sitemap.xml

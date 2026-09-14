@@ -1,0 +1,20 @@
+# Merafex | Persianas en Barcelona
+
+> Instalación, reparación y motorización de persianas para viviendas, locales y oficinas en Barcelona y área metropolitana. Presupuesto sin compromiso y atención personalizada.
+
+## Contenido principal
+
+- [Inicio](https://persianas.merafex.es/): Presentación del servicio de persianas de Merafex en Barcelona.
+- [Servicios](https://persianas.merafex.es/#servicios): Reparación, instalación y mantenimiento de persianas.
+- [Motorización](https://persianas.merafex.es/#motorizacion): Automatización de persianas con motores y mandos adecuados a cada instalación.
+- [Tipos de persianas](https://persianas.merafex.es/#tipos): Soluciones para viviendas, comercios y oficinas.
+- [Zonas de servicio](https://persianas.merafex.es/#zonas): Barcelona capital y municipios del área metropolitana.
+- [Preguntas frecuentes](https://persianas.merafex.es/#faq): Información sobre reparaciones, instalaciones y motorización.
+- [Contacto](https://persianas.merafex.es/#contacto): Solicitud de presupuesto y vías de contacto.
+
+## Información del negocio
+
+- Empresa: Cerrajería Merafex, S.L.
+- Email: info@merafex.es
+- Teléfono: 611 37 54 95
+- Web: https://persianas.merafex.es/
