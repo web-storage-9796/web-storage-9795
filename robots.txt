@@ -4,6 +4,12 @@ Disallow: /aviso-legal/
 Disallow: /condiciones-uso/
 Disallow: /politica-cookies/
 Disallow: /politica-privacidad/
+Disallow: /ca/avis-legal/
+Disallow: /ca/politica-galetes/
+Disallow: /ca/politica-privacitat/
+Disallow: /en/legal-notice/
+Disallow: /en/cookie-policy/
+Disallow: /en/privacy-policy/
 
 User-agent: GPTBot
 Allow: /
