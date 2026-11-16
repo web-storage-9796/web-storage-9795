@@ -5,14 +5,14 @@
 ## Contenido principal
 
 - [Inicio](https://persianas.merafex.es/): Presentación del servicio de persianas de Merafex en Barcelona.
-- [Servicios](https://persianas.merafex.es/#servicios): Reparación, instalación y mantenimiento de persianas.
-- [Reparación de persianas](https://persianas.merafex.es/reparacion-persianas/): Averías de persianas en viviendas (cinta, recogedor, lamas, eje y motor), proceso de trabajo y preguntas frecuentes.
-- [Instalación de persianas](https://persianas.merafex.es/instalacion-persianas/): Sustitución de persianas antiguas e instalación en reformas y obra nueva, proceso, materiales y presupuesto.
-- [Motor de persiana y persianas eléctricas](https://persianas.merafex.es/motorizacion-persianas/): Instalación de motores de persiana (Somfy, Simu, Nice, Gaviota y Becker), también comprados por el cliente; cómo elegir el motor (eje, fuerza, cable o radio), control con interruptor, mando o wifi, y domótica.
+- [Servicios](https://persianas.merafex.es/#servicios): Reparación, instalación y motorización de persianas para viviendas y locales.
+- [Reparación de persianas](https://persianas.merafex.es/reparacion-persianas/): Reparación de persianas en viviendas: cambio de cinta y recogedor, persiana descolgada o atascada, lamas, eje y soportes, ruidos y persiana eléctrica que no sube ni baja (PVC, aluminio y seguridad), proceso, precio y preguntas frecuentes.
+- [Instalación de persianas](https://persianas.merafex.es/instalacion-persianas/): Instalación y cambio de persianas de aluminio y PVC en reformas y obra nueva: medición, materiales, aislamiento térmico y acústico, comunidad de propietarios, presupuesto y preguntas frecuentes.
+- [Motor de persiana y persianas eléctricas](https://persianas.merafex.es/motorizacion-persianas/): Instalación de motores de persiana (Somfy, Simu, Nice, Gaviota y Becker); cómo elegir el motor (eje, fuerza, cable o radio), control con pulsador, mando o wifi, ajuste de los finales de carrera y domótica.
 - [Persianas de seguridad](https://persianas.merafex.es/persianas-de-seguridad/): Persianas autoblocantes y antipalanca de aluminio extrusionado para pisos bajos, áticos y viviendas sin rejas, tipos, funcionamiento, motor y preguntas frecuentes.
-- [Persianas metálicas para locales](https://persianas.merafex.es/persianas-metalicas-locales/): Reparación, instalación y motorización de cierres metálicos para comercios y oficinas.
+- [Persianas metálicas para locales](https://persianas.merafex.es/persianas-metalicas-locales/): Reparación, instalación y motorización de persianas metálicas y puertas enrollables para comercios, bares, talleres y oficinas: motor, muelles, lamas y cerradura.
 - [Cajas de desbloqueo exterior](https://persianas.merafex.es/caja-desbloqueo-persiana/): Sustitución e instalación de cajas, cajetines y cofres blindados de desbloqueo (blindinos) para el motor de persianas de local, modelos, funcionamiento y preguntas frecuentes.
-- [Motorización](https://persianas.merafex.es/#motorizacion): Automatización de persianas con motores y mandos adecuados a cada instalación.
+- [Motorización](https://persianas.merafex.es/#motorizacion): Motor de persiana con pulsador, mando o wifi adecuado a cada instalación.
 - [Tipos de persianas](https://persianas.merafex.es/#tipos): Soluciones para viviendas, comercios y oficinas.
 - [Zonas de servicio](https://persianas.merafex.es/#zonas): Barcelona capital y municipios del área metropolitana.
 - [Preguntas frecuentes](https://persianas.merafex.es/#faq): Información sobre reparaciones, instalaciones y motorización.
@@ -21,22 +21,22 @@
 ## En catalán
 
 - [Inici](https://persianas.merafex.es/ca/): Presentació del servei de persianes de Merafex a Barcelona.
-- [Reparació de persianes](https://persianas.merafex.es/ca/reparacio-persianes/)
-- [Instal·lació de persianes](https://persianas.merafex.es/ca/installacio-persianes/)
-- [Motorització de persianes](https://persianas.merafex.es/ca/motoritzacio-persianes/)
-- [Persianes de seguretat](https://persianas.merafex.es/ca/persianes-de-seguretat/)
-- [Persianes metàl·liques per a locals](https://persianas.merafex.es/ca/persianes-metalliques-locals/)
-- [Caixes de desbloqueig exterior](https://persianas.merafex.es/ca/caixa-desbloqueig-persiana/)
+- [Reparació de persianes](https://persianas.merafex.es/ca/reparacio-persianes/): Reparació de persianes en habitatges: cinta, recollidor, lames, eix i motor, procés de treball i preguntes freqüents.
+- [Instal·lació de persianes](https://persianas.merafex.es/ca/installacio-persianes/): Instal·lació i canvi de persianes d'alumini i PVC en reformes i obra nova: mesurament, materials i pressupost.
+- [Motorització de persianes](https://persianas.merafex.es/ca/motoritzacio-persianes/): Motor de persiana (Somfy, Simu, Nice, Gaviota i Becker) amb polsador, comandament o wifi.
+- [Persianes de seguretat](https://persianas.merafex.es/ca/persianes-de-seguretat/): Persianes de seguretat autoblocants i antipalanca per a pisos baixos, àtics i habitatges.
+- [Persianes metàl·liques per a locals](https://persianas.merafex.es/ca/persianes-metalliques-locals/): Reparació, instal·lació i motorització de persianes metàl·liques per a comerços i oficines.
+- [Caixes de desbloqueig exterior](https://persianas.merafex.es/ca/caixa-desbloqueig-persiana/): Substitució i instal·lació de caixes de desbloqueig exterior per al motor de la persiana d'un local.
 
 ## En inglés
 
 - [Home](https://persianas.merafex.es/en/): Merafex roller shutter services in Barcelona.
-- [Roller shutter repair](https://persianas.merafex.es/en/roller-shutter-repair/)
-- [Roller shutter installation](https://persianas.merafex.es/en/roller-shutter-installation/)
-- [Roller shutter motorisation](https://persianas.merafex.es/en/roller-shutter-motorisation/)
-- [Security roller shutters](https://persianas.merafex.es/en/security-roller-shutters/)
-- [Metal shutters for commercial premises](https://persianas.merafex.es/en/commercial-metal-shutters/)
-- [External release boxes](https://persianas.merafex.es/en/shutter-release-box/)
+- [Roller shutter repair](https://persianas.merafex.es/en/roller-shutter-repair/): Roller shutter repair for homes: strap and winder replacement, jammed or fallen shutters, slats, axle and brackets, noises and electric shutters that won't move; PVC, aluminium and security shutters.
+- [Roller shutter installation](https://persianas.merafex.es/en/roller-shutter-installation/): Roller shutter installation and replacement in aluminium or PVC for renovations and new builds: measuring, materials, insulation and quote.
+- [Roller shutter motorisation](https://persianas.merafex.es/en/roller-shutter-motorisation/): Roller shutter motors and electric shutters (Somfy, Simu, Nice, Gaviota and Becker) with wall switch, remote or wifi.
+- [Security roller shutters](https://persianas.merafex.es/en/security-roller-shutters/): Self-locking, anti-lever security roller shutters for ground-floor flats, top-floor flats and houses.
+- [Metal shutters for commercial premises](https://persianas.merafex.es/en/commercial-metal-shutters/): Repair, installation and motorisation of metal shutters and roller doors for shops, bars, workshops and offices.
+- [External release boxes](https://persianas.merafex.es/en/shutter-release-box/): Replacement and installation of external release boxes for the motor of a shop shutter.
 
 ## Información del negocio
 

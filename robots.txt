@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /aviso-legal/
-Disallow: /condiciones-uso/
 Disallow: /politica-cookies/
 Disallow: /politica-privacidad/
 Disallow: /ca/avis-legal/
